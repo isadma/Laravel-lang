@@ -12,9 +12,9 @@ return [
     |
     */
 
-    'reset'     => 'Açarsöz üýtgedildi!',
-    'sent'      => 'Açarsöz ýatlatmasy ugradyldy!',
+    'reset'     => 'Gizlin belgiňiz üýtgedildi!',
+    'sent'      => 'Gizlin belgiňizi çalyşmak üçin e-mail adresiňize hat ugradyldy!',
     'throttled' => 'Please wait before retrying.',
-    'token'     => 'Açarsöz tazeleme söz birligi ýalňyş.',
+    'token'     => 'Gizlin belgi täzeleme tokeni ýalňyş.',
     'user'      => 'Bu e-mail adrese degişli ulanyjy tapylmady.',
 ];
